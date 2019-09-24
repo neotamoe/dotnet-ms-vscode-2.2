@@ -1,0 +1,17 @@
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/test-library.deps.json
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/test-library.runtimeconfig.json
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/test-library.runtimeconfig.dev.json
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/test-library.dll
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/test-library.pdb
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/library.dll
+/Users/neotamoe/Documents/golden/test-library/bin/Debug/netcoreapp2.2/library.pdb
+/Users/neotamoe/Documents/golden/test-library/obj/Debug/netcoreapp2.2/test-library.csprojAssemblyReference.cache
+/Users/neotamoe/Documents/golden/test-library/obj/Debug/netcoreapp2.2/test-library.csproj.CoreCompileInputs.cache
+/Users/neotamoe/Documents/golden/test-library/obj/Debug/netcoreapp2.2/test-library.AssemblyInfoInputs.cache
+/Users/neotamoe/Documents/golden/test-library/obj/Debug/netcoreapp2.2/test-library.AssemblyInfo.cs
+/Users/neotamoe/Documents/golden/test-library/obj/Debug/netcoreapp2.2/test-library.csproj.CopyComplete
+/Users/neotamoe/Documents/golden/test-library/obj/Debug/netcoreapp2.2/test-library.dll
+/Users/neotamoe/Documents/golden/test-library/obj/Debug/netcoreapp2.2/test-library.pdb

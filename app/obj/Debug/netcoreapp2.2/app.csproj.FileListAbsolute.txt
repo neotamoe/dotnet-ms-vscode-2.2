@@ -1,0 +1,14 @@
+/Users/neotamoe/Documents/golden/app/bin/Debug/netcoreapp2.2/app.deps.json
+/Users/neotamoe/Documents/golden/app/bin/Debug/netcoreapp2.2/app.runtimeconfig.json
+/Users/neotamoe/Documents/golden/app/bin/Debug/netcoreapp2.2/app.runtimeconfig.dev.json
+/Users/neotamoe/Documents/golden/app/bin/Debug/netcoreapp2.2/app.dll
+/Users/neotamoe/Documents/golden/app/bin/Debug/netcoreapp2.2/app.pdb
+/Users/neotamoe/Documents/golden/app/bin/Debug/netcoreapp2.2/library.dll
+/Users/neotamoe/Documents/golden/app/bin/Debug/netcoreapp2.2/library.pdb
+/Users/neotamoe/Documents/golden/app/obj/Debug/netcoreapp2.2/app.csprojAssemblyReference.cache
+/Users/neotamoe/Documents/golden/app/obj/Debug/netcoreapp2.2/app.csproj.CoreCompileInputs.cache
+/Users/neotamoe/Documents/golden/app/obj/Debug/netcoreapp2.2/app.AssemblyInfoInputs.cache
+/Users/neotamoe/Documents/golden/app/obj/Debug/netcoreapp2.2/app.AssemblyInfo.cs
+/Users/neotamoe/Documents/golden/app/obj/Debug/netcoreapp2.2/app.csproj.CopyComplete
+/Users/neotamoe/Documents/golden/app/obj/Debug/netcoreapp2.2/app.dll
+/Users/neotamoe/Documents/golden/app/obj/Debug/netcoreapp2.2/app.pdb
